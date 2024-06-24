@@ -1,3 +1,4 @@
 # BirdCLEF24
-1) Bronze Medal 69th solution
-2) Mean-Teacher 
+1) Mean-Teacher
+2) Simple Audio Preprocessing & Augmentations
+3) EDA
